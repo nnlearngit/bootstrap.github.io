@@ -1,0 +1,25 @@
+@media screen and (max-width: 360px) {
+	.jumbotron {
+    padding: 2rem 1rem;
+    
+}
+
+
+.sliderbgimg li {
+    padding-inline: 9px;
+    
+}
+.logo {
+    margin-left: 0px;
+}
+
+
+.inner1_heading {
+    
+    margin-bottom: 16px;
+}
+
+.inner_heading {
+ margin-bottom: 16px;
+}
+}
